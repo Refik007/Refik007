@@ -3,13 +3,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I’m currently working at **Cmos Teknoloji**
-- 🌱 I’m learning advanced **microservices architecture** and **Docker**
-- 👯 I’m looking to collaborate on open-source .NET & JS projects
-
----
-
 ### 💼 Tech Stack
 
 <p align="left">
